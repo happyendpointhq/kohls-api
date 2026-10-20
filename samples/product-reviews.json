@@ -1,0 +1,539 @@
+{
+  "response": {
+    "Limit": 3,
+    "Offset": 0,
+    "TotalResults": 858,
+    "Locale": "en_US",
+    "Results": [
+      {
+        "Id": "415103613",
+        "SourceClient": "kohls",
+        "Badges": {
+          "verifiedPurchaser": {
+            "ContentType": "REVIEW",
+            "Id": "verifiedPurchaser",
+            "BadgeType": "Custom"
+          }
+        },
+        "BadgesOrder": [
+          "verifiedPurchaser"
+        ],
+        "LastModeratedTime": "2026-10-18T19:15:59.000+00:00",
+        "LastModificationTime": "2026-10-18T23:00:56.000+00:00",
+        "ProductId": "5008379",
+        "OriginalProductName": "Men's Sonoma Goods For Life® Straight-Fit Flexwear Jean",
+        "CampaignId": "BV_PIE_MPR",
+        "ContentLocale": "en_US",
+        "IsFeatured": false,
+        "TotalInappropriateFeedbackCount": 0,
+        "TotalClientResponseCount": 0,
+        "TotalCommentCount": 0,
+        "Rating": 5,
+        "IsRatingsOnly": false,
+        "Helpfulness": 0,
+        "TotalFeedbackCount": 1,
+        "TotalNegativeFeedbackCount": 1,
+        "TotalPositiveFeedbackCount": 0,
+        "ModerationStatus": "APPROVED",
+        "SubmissionTime": "2026-10-18T18:55:42.000+00:00",
+        "ReviewText": "My husband loves these jeans!  So comfortable.  Just what he needed.",
+        "Title": "Great jeans!",
+        "IsSyndicated": false,
+        "Photos": [],
+        "Cons": null,
+        "ProductRecommendationIds": [],
+        "TagDimensions": {},
+        "IsRecommended": null,
+        "ContextDataValuesOrder": [],
+        "RatingRange": 5,
+        "Videos": [],
+        "AdditionalFields": {},
+        "AdditionalFieldsOrder": [],
+        "Pros": null,
+        "SecondaryRatingsOrder": [],
+        "CommentIds": [],
+        "ClientResponses": [],
+        "ContextDataValues": {},
+        "TagDimensionsOrder": [],
+        "SecondaryRatings": {}
+      },
+      {
+        "Id": "415067813",
+        "SourceClient": "kohls",
+        "Badges": {
+          "verifiedPurchaser": {
+            "ContentType": "REVIEW",
+            "Id": "verifiedPurchaser",
+            "BadgeType": "Custom"
+          }
+        },
+        "BadgesOrder": [
+          "verifiedPurchaser"
+        ],
+        "LastModeratedTime": "2026-10-18T06:00:25.000+00:00",
+        "LastModificationTime": "2026-10-18T06:00:25.000+00:00",
+        "ProductId": "5008379",
+        "OriginalProductName": "Men's Sonoma Goods For Life® Straight-Fit Flexwear Jean",
+        "CampaignId": "BV_PIE_MPR",
+        "ContentLocale": "en_US",
+        "IsFeatured": false,
+        "TotalInappropriateFeedbackCount": 0,
+        "TotalClientResponseCount": 0,
+        "TotalCommentCount": 0,
+        "Rating": 5,
+        "IsRatingsOnly": false,
+        "TotalFeedbackCount": 0,
+        "TotalNegativeFeedbackCount": 0,
+        "TotalPositiveFeedbackCount": 0,
+        "ModerationStatus": "APPROVED",
+        "SubmissionTime": "2026-10-18T05:40:50.000+00:00",
+        "ReviewText": "Jeans are great quality, excellent fit and colors stay in the fabric.",
+        "Title": "Sonoma men’s bootcut jeans",
+        "IsSyndicated": false,
+        "Photos": [],
+        "Cons": null,
+        "ProductRecommendationIds": [],
+        "TagDimensions": {},
+        "IsRecommended": null,
+        "ContextDataValuesOrder": [],
+        "RatingRange": 5,
+        "Videos": [],
+        "AdditionalFields": {},
+        "AdditionalFieldsOrder": [],
+        "Pros": null,
+        "SecondaryRatingsOrder": [],
+        "CommentIds": [],
+        "ClientResponses": [],
+        "ContextDataValues": {},
+        "TagDimensionsOrder": [],
+        "SecondaryRatings": {},
+        "Helpfulness": null
+      }
+    ],
+    "Includes": {
+      "Products": {
+        "5008379": {
+          "Name": "Men's Sonoma Goods For Life® Straight-Fit Flexwear Jean",
+          "Id": "5008379",
+          "CategoryId": "Bottoms",
+          "BrandExternalId": "SONOMA_Goods_for_Life",
+          "Brand": {
+            "Id": "SONOMA_Goods_for_Life",
+            "Name": "Sonoma Goods For Life"
+          },
+          "ReviewStatistics": {
+            "HelpfulVoteCount": 181,
+            "TotalPhotoCount": 14,
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 1602
+              },
+              {
+                "RatingValue": 4,
+                "Count": 225
+              },
+              {
+                "RatingValue": 1,
+                "Count": 148
+              },
+              {
+                "RatingValue": 3,
+                "Count": 92
+              },
+              {
+                "RatingValue": 2,
+                "Count": 74
+              }
+            ],
+            "FirstSubmissionTime": "2018-05-19T00:44:39.000+00:00",
+            "LastSubmissionTime": "2026-10-19T15:51:37.000+00:00",
+            "AverageOverallRating": 4.428771602055114,
+            "TotalVideoCount": 0,
+            "NotHelpfulVoteCount": 52,
+            "SecondaryRatingsAveragesOrder": [
+              "Fit_22",
+              "Quality_1",
+              "Comfort_1",
+              "Durability_1",
+              "Value_1",
+              "Style_1"
+            ],
+            "SecondaryRatingsAverages": {
+              "Comfort_1": {
+                "Id": "Comfort_1",
+                "AverageRating": 4.510204081632653,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Style_1": {
+                "Id": "Style_1",
+                "AverageRating": 4.2023809523809526,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Durability_1": {
+                "Id": "Durability_1",
+                "AverageRating": 4.216589861751152,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Quality_1": {
+                "Id": "Quality_1",
+                "AverageRating": 4.26278659611993,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 3.167315175097276,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Value_1": {
+                "Id": "Value_1",
+                "AverageRating": 4.412451361867705,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              }
+            },
+            "ContextDataDistributionOrder": [
+              "IncentivizedReview",
+              "LengthOfOwnership_1",
+              "BodyType",
+              "Age"
+            ],
+            "ContextDataDistribution": {
+              "IncentivizedReview": {
+                "Id": "IncentivizedReview",
+                "Values": [
+                  {
+                    "Count": 15,
+                    "Value": "True"
+                  }
+                ]
+              },
+              "LengthOfOwnership_1": {
+                "Id": "LengthOfOwnership_1",
+                "Values": [
+                  {
+                    "Count": 42,
+                    "Value": "1Week"
+                  },
+                  {
+                    "Count": 114,
+                    "Value": "1Month"
+                  },
+                  {
+                    "Count": 21,
+                    "Value": "3Months"
+                  },
+                  {
+                    "Count": 6,
+                    "Value": "6Months"
+                  },
+                  {
+                    "Count": 6,
+                    "Value": "1Year"
+                  },
+                  {
+                    "Count": 32,
+                    "Value": "MoreThan1Year"
+                  }
+                ]
+              },
+              "BodyType": {
+                "Id": "BodyType",
+                "Values": [
+                  {
+                    "Count": 32,
+                    "Value": "Slender"
+                  },
+                  {
+                    "Count": 113,
+                    "Value": "Straight"
+                  },
+                  {
+                    "Count": 22,
+                    "Value": "FullFigured"
+                  },
+                  {
+                    "Count": 23,
+                    "Value": "Tall"
+                  },
+                  {
+                    "Count": 4,
+                    "Value": "CurvyOnTop"
+                  }
+                ]
+              },
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 33,
+                    "Value": "Under18"
+                  },
+                  {
+                    "Count": 52,
+                    "Value": "18to24"
+                  },
+                  {
+                    "Count": 47,
+                    "Value": "25to34"
+                  },
+                  {
+                    "Count": 98,
+                    "Value": "35to44"
+                  },
+                  {
+                    "Count": 120,
+                    "Value": "45to54"
+                  },
+                  {
+                    "Count": 124,
+                    "Value": "55to65"
+                  },
+                  {
+                    "Count": 132,
+                    "Value": "Over65"
+                  }
+                ]
+              }
+            },
+            "RatingsOnlyReviewCount": 1283,
+            "NotRecommendedCount": 96,
+            "RecommendedCount": 568,
+            "FeaturedReviewCount": 0,
+            "TotalReviewCount": 2141,
+            "TotalMediaCount": 14,
+            "TagDistributionOrder": [],
+            "OverallRatingRange": 5,
+            "TagDistribution": {},
+            "IntelligentTrustMarkDisplayEligible": true
+          },
+          "TotalReviewCount": 2141,
+          "FilteredReviewStatistics": {
+            "HelpfulVoteCount": 181,
+            "TotalPhotoCount": 14,
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 591
+              },
+              {
+                "RatingValue": 1,
+                "Count": 90
+              },
+              {
+                "RatingValue": 4,
+                "Count": 88
+              },
+              {
+                "RatingValue": 2,
+                "Count": 46
+              },
+              {
+                "RatingValue": 3,
+                "Count": 43
+              }
+            ],
+            "FirstSubmissionTime": "2018-05-19T00:44:39.000+00:00",
+            "LastSubmissionTime": "2026-10-18T18:55:42.000+00:00",
+            "AverageOverallRating": 4.216783216783217,
+            "TotalVideoCount": 0,
+            "NotHelpfulVoteCount": 51,
+            "SecondaryRatingsAveragesOrder": [
+              "Fit_22",
+              "Quality_1",
+              "Comfort_1",
+              "Durability_1",
+              "Value_1",
+              "Style_1"
+            ],
+            "SecondaryRatingsAverages": {
+              "Comfort_1": {
+                "Id": "Comfort_1",
+                "AverageRating": 4.517441860465116,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Style_1": {
+                "Id": "Style_1",
+                "AverageRating": 4.211206896551724,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Durability_1": {
+                "Id": "Durability_1",
+                "AverageRating": 4.245,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Quality_1": {
+                "Id": "Quality_1",
+                "AverageRating": 4.253703703703704,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Fit_22": {
+                "Id": "Fit_22",
+                "AverageRating": 3.16734693877551,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              },
+              "Value_1": {
+                "Id": "Value_1",
+                "AverageRating": 4.421276595744681,
+                "DisplayType": "SLIDER",
+                "ValueRange": 5,
+                "MaxLabel": null,
+                "MinLabel": null
+              }
+            },
+            "ContextDataDistributionOrder": [
+              "IncentivizedReview",
+              "LengthOfOwnership_1",
+              "BodyType",
+              "Age"
+            ],
+            "ContextDataDistribution": {
+              "IncentivizedReview": {
+                "Id": "IncentivizedReview",
+                "Values": [
+                  {
+                    "Count": 14,
+                    "Value": "True"
+                  }
+                ]
+              },
+              "LengthOfOwnership_1": {
+                "Id": "LengthOfOwnership_1",
+                "Values": [
+                  {
+                    "Count": 38,
+                    "Value": "1Week"
+                  },
+                  {
+                    "Count": 104,
+                    "Value": "1Month"
+                  },
+                  {
+                    "Count": 18,
+                    "Value": "3Months"
+                  },
+                  {
+                    "Count": 6,
+                    "Value": "6Months"
+                  },
+                  {
+                    "Count": 6,
+                    "Value": "1Year"
+                  },
+                  {
+                    "Count": 31,
+                    "Value": "MoreThan1Year"
+                  }
+                ]
+              },
+              "BodyType": {
+                "Id": "BodyType",
+                "Values": [
+                  {
+                    "Count": 29,
+                    "Value": "Slender"
+                  },
+                  {
+                    "Count": 107,
+                    "Value": "Straight"
+                  },
+                  {
+                    "Count": 19,
+                    "Value": "FullFigured"
+                  },
+                  {
+                    "Count": 20,
+                    "Value": "Tall"
+                  },
+                  {
+                    "Count": 4,
+                    "Value": "CurvyOnTop"
+                  }
+                ]
+              },
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 29,
+                    "Value": "Under18"
+                  },
+                  {
+                    "Count": 51,
+                    "Value": "18to24"
+                  },
+                  {
+                    "Count": 46,
+                    "Value": "25to34"
+                  },
+                  {
+                    "Count": 94,
+                    "Value": "35to44"
+                  },
+                  {
+                    "Count": 115,
+                    "Value": "45to54"
+                  },
+                  {
+                    "Count": 121,
+                    "Value": "55to65"
+                  },
+                  {
+                    "Count": 123,
+                    "Value": "Over65"
+                  }
+                ]
+              }
+            },
+            "RatingsOnlyReviewCount": 0,
+            "NotRecommendedCount": 94,
+            "RecommendedCount": 531,
+            "FeaturedReviewCount": 0,
+            "TotalReviewCount": 858,
+            "TotalMediaCount": 14,
+            "TagDistributionOrder": [],
+            "OverallRatingRange": 5,
+            "TagDistribution": {}
+          }
+        }
+      },
+      "ProductsOrder": [
+        "5008379"
+      ]
+    },
+    "HasErrors": false,
+    "Errors": []
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "payload": {
+    "categories": [
+      {
+        "ID": "1654325296018",
+        "name": "Black Friday Early Access",
+        "seoURL": "/catalog/catalog.jsp?CN=Assortment:Early%20Black%20Friday%20Deals&BL=y&BST=7196994:6852510:c3146950:2166289:6644342:7509313:1695762:7627781:7659648:5178:6824218:7680839:7513341:7509494:7513283:5870979:7223602:7434005:5171146:7262298&cc=adleak-TN1.0-S-shopall",
+        "type": "Catalog",
+        "categories": [
+          {
+            "ID": "1276282145361",
+            "name": "Shop All Early Black Friday Deals:",
+            "seoURL": "/catalog/catalog.jsp?CN=Assortment:Early%20Black%20Friday%20Deals&BL=y&BST=7196994:6852510:c3146950:2166289:6644342:7509313:1695762:7627781:7659648:5178:6824218:7680839:7513341:7509494:7513283:5870979:7223602:7434005:5171146:7262298&cc=adleak-TN2.0-shopalldeals",
+            "type": "Catalog"
+          },
+          {
+            "ID": "1307649022568",
+            "name": "Explore the Ad",
+            "seoURL": "/sale-event/early-access-black-friday.jsp?cc=adleak-TN2.0-digitalad",
+            "type": "Category"
+          },
+          {
+            "ID": "1282587563158",
+            "name": "Deals $10 & Under",
+            "seoURL": "/catalog/catalog.jsp?CN=MerchPricing:%2410.00+MerchPricing:Under%20%2410+Assortment:Early%20Black%20Friday%20Deals&BL=y&cc=adleak-TN2.0-10under",
+            "type": "Catalog"
+          }
+        ]
+      },
+      {
+        "ID": "1313995675858",
+        "name": "Holiday Gift Shop",
+        "seoURL": "/catalog/gift-ideas-holiday.jsp?CN=Feature:Gift%20Ideas+Occasion:Holiday&cc=holidaygifts-TN1.0-S-holidaygiftshop",
+        "type": "Catalog",
+        "categories": [
+          {
+            "ID": "1898923365905",
+            "name": "All Holiday Gifts",
+            "seoURL": "/catalog/gift-ideas-holiday.jsp?CN=Feature:Gift%20Ideas+Occasion:Holiday&cc=hgs-TN2.0-S-holidaygiftshopall",
+            "type": "Catalog"
+          },
+          {
+            "ID": "1652415047597",
+            "name": "Gifts For Her",
+            "seoURL": "/catalog/gift-ideas-holiday-for-women.jsp?CN=Feature:Gift%20Ideas+Occasion:Holiday+PersonaTheme:for%20Women&BST=7507473:7748103:7771854:7262298:7739036:4922640:7623995:7010464&cc=hgs-TN2.0-S-forher",
+            "type": "Catalog"
+          },
+          {
+            "ID": "1920849531286",
+            "name": "Gifts For Him",
+            "seoURL": "/catalog/gift-ideas-holiday-for-men.jsp?CN=Feature:Gift%20Ideas+Occasion:Holiday+PersonaTheme:for%20Men&cc=hgs-TN2.0-S-forhim",
+            "type": "Catalog"
+          }
+        ]
+      }
+    ]
+  }
+}

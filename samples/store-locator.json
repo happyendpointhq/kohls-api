@@ -1,0 +1,57 @@
+{
+  "lat": "40.941111",
+  "lng": "-73.982308",
+  "originLat": "40.941111",
+  "originLng": "-73.982308",
+  "markers": [
+    {
+      "lat": "40.9150842",
+      "lng": "-74.057735",
+      "tooltip": "",
+      "info": "<div class=\"tlsmap_popup\">{    \"fid\":\"1588\",    \"lid\":\"705334\",    \"address_1\": \"200 BERGEN TOWN CENTER\",    \"address_2\": \"\",    \"city\": \"PARAMUS\",    \"region\": \"NJ\",    \"post_code\": \"07652\",    \"location_name\": \"Kohl's Bergen Town Center\",    \"url\": \"/stores/nj/paramus-1588.shtml\",    \"url_native\": \"https://stores.kohlslocal.com/nj/paramus/1588.html\",    \"country\":\"US\",    \"lat\": \"40.9150842\",    \"lng\": \"-74.057735\"}</div>",
+      "iconURL": "//assets.kohlslocal.com/images/mapIconSm.gif",
+      "clickable": true,
+      "locationId": 705334,
+      "specialties": [
+        {
+          "name": "Kids Room Shop",
+          "order": "35",
+          "group": "Store Badges",
+          "spid": "4602",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "lat": "40.9775514",
+      "lng": "-73.8288571",
+      "tooltip": "",
+      "info": "<div class=\"tlsmap_popup\">{    \"fid\":\"393\",    \"lid\":\"249345\",    \"address_1\": \"2350 CENTRAL PARK AVE\",    \"address_2\": \"\",    \"city\": \"YONKERS\",    \"region\": \"NY\",    \"post_code\": \"10710\",    \"location_name\": \"Kohl's Yonkers\",    \"url\": \"/stores/ny/yonkers-393.shtml\",    \"url_native\": \"https://stores.kohlslocal.com/ny/yonkers/393.html\",    \"country\":\"US\",    \"lat\": \"40.9775514\",    \"lng\": \"-73.8288571\"}</div>",
+      "iconURL": "//assets.kohlslocal.com/images/mapIconSm.gif",
+      "clickable": true,
+      "locationId": 249345,
+      "specialties": [
+        {
+          "name": "Kids Room Shop",
+          "order": "35",
+          "group": "Store Badges",
+          "spid": "4602",
+          "value": 1
+        }
+      ]
+    }
+  ],
+  "options": {
+    "render": "all",
+    "zoom": "autofit",
+    "strict": 1,
+    "psid": 3,
+    "listContainer": ".domainmapList",
+    "mapPin": "mapIconSm.gif",
+    "did": "430",
+    "lat": "40.941111",
+    "lng": "-73.982308",
+    "async": true,
+    "radius": "10"
+  }
+}

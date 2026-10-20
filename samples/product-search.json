@@ -1,0 +1,396 @@
+{
+  "payload": {
+    "searchTerm": "jeans",
+    "autoCorrectedTerm": null,
+    "sorts": [
+      {
+        "name": "Featured",
+        "active": true,
+        "ID": "1"
+      },
+      {
+        "name": "New Arrivals",
+        "active": false,
+        "ID": "2"
+      },
+      {
+        "name": "Price Low-High",
+        "active": false,
+        "ID": "4"
+      },
+      {
+        "name": "Price High-Low",
+        "active": false,
+        "ID": "5"
+      },
+      {
+        "name": "Highest Rated",
+        "active": false,
+        "ID": "6"
+      },
+      {
+        "name": "Percent Off",
+        "active": false,
+        "ID": "7"
+      }
+    ],
+    "dimensions": [
+      {
+        "name": "InStoreOnline",
+        "label": "Pickup & Shipping",
+        "index": 1,
+        "dimensionValues": [
+          {
+            "name": "Store Pickup Today",
+            "productCount": 0,
+            "index": 1,
+            "active": false,
+            "noFollow": true,
+            "seoURL": "/search.jsp?CN=InStoreOnline:Pick%20Up%20in%20Store&BL=y&search=jeans&S=1",
+            "currentDimensionId": "InStoreOnline:Pick%20Up%20in%20Store",
+            "currentAttributeId": null,
+            "ID": "InStoreOnline:Pick%20Up%20in%20Store"
+          },
+          {
+            "name": "Ship to Store",
+            "productCount": 0,
+            "index": 2,
+            "active": false,
+            "noFollow": true,
+            "seoURL": "/search.jsp?CN=InStoreOnline:Ship%20to%20Store&BL=y&search=jeans&S=1",
+            "currentDimensionId": "InStoreOnline:Ship%20to%20Store",
+            "currentAttributeId": null,
+            "ID": "InStoreOnline:Ship%20to%20Store"
+          },
+          {
+            "name": "Ship to Me",
+            "productCount": 72,
+            "index": 3,
+            "active": false,
+            "noFollow": true,
+            "seoURL": "/search.jsp?CN=InStoreOnline:Online%20Only&BL=y&search=jeans&S=1",
+            "currentDimensionId": "InStoreOnline:Online%20Only",
+            "currentAttributeId": null,
+            "ID": "InStoreOnline:Online%20Only"
+          }
+        ],
+        "clearSEOURL": null
+      },
+      {
+        "name": "Brand",
+        "label": "Brand",
+        "index": 8,
+        "dimensionValues": [
+          {
+            "name": "Kohl's Brands",
+            "productCount": 53,
+            "index": 1,
+            "active": false,
+            "noFollow": false,
+            "seoURL": "/search/kohls-brands.jsp?CN=Brand:Kohl%27s%20Brands&search=jeans&S=1",
+            "currentDimensionId": "Brand:Kohl%27s%20Brands",
+            "currentAttributeId": null,
+            "ID": "Brand:Kohl%27s%20Brands"
+          },
+          {
+            "name": "ALLEGRA K",
+            "productCount": 4,
+            "index": 2,
+            "active": false,
+            "noFollow": false,
+            "seoURL": "/search/allegra-k.jsp?CN=Brand:ALLEGRA%20K&search=jeans&S=1",
+            "currentDimensionId": "Brand:ALLEGRA%20K",
+            "currentAttributeId": null,
+            "ID": "Brand:ALLEGRA%20K"
+          },
+          {
+            "name": "Croft & Barrow",
+            "productCount": 4,
+            "index": 3,
+            "active": false,
+            "noFollow": false,
+            "seoURL": "/search/croft-barrow.jsp?CN=Brand:Croft%20%26%20Barrow&search=jeans&S=1",
+            "currentDimensionId": "Brand:Croft%20%26%20Barrow",
+            "currentAttributeId": null,
+            "ID": "Brand:Croft%20%26%20Barrow"
+          }
+        ],
+        "clearSEOURL": null
+      },
+      {
+        "name": "TopRated",
+        "label": "Rating",
+        "index": 10,
+        "dimensionValues": [
+          {
+            "name": "5",
+            "productCount": 4,
+            "index": 1,
+            "active": false,
+            "noFollow": false,
+            "seoURL": "/search/5.jsp?CN=TopRated:5&search=jeans&S=1",
+            "currentDimensionId": "TopRated:5",
+            "currentAttributeId": null,
+            "ID": "TopRated:5"
+          },
+          {
+            "name": "4",
+            "productCount": 64,
+            "index": 2,
+            "active": false,
+            "noFollow": true,
+            "seoURL": "/search.jsp?CN=TopRated:4&BL=y&search=jeans&S=1",
+            "currentDimensionId": "TopRated:4",
+            "currentAttributeId": null,
+            "ID": "TopRated:4"
+          },
+          {
+            "name": "3",
+            "productCount": 2,
+            "index": 3,
+            "active": false,
+            "noFollow": true,
+            "seoURL": "/search.jsp?CN=TopRated:3&BL=y&search=jeans&S=1",
+            "currentDimensionId": "TopRated:3",
+            "currentAttributeId": null,
+            "ID": "TopRated:3"
+          }
+        ],
+        "clearSEOURL": null
+      },
+      {
+        "name": "Price",
+        "label": "Price",
+        "index": 11,
+        "dimensionValues": [
+          {
+            "name": "Under $10",
+            "productCount": 9,
+            "index": 1,
+            "active": false,
+            "noFollow": false,
+            "seoURL": "/search/under-10.jsp?CN=Price:Under%20%2410&search=jeans&S=1",
+            "currentDimensionId": "Price:Under%20%2410",
+            "currentAttributeId": null,
+            "ID": "Price:Under%20%2410"
+          },
+          {
+            "name": "$10 to $25",
+            "productCount": 33,
+            "index": 2,
+            "active": false,
+            "noFollow": true,
+            "seoURL": "/search.jsp?CN=Price:%2410%20to%20%2425&BL=y&search=jeans&S=1",
+            "currentDimensionId": "Price:%2410%20to%20%2425",
+            "currentAttributeId": null,
+            "ID": "Price:%2410%20to%20%2425"
+          },
+          {
+            "name": "$25 to $50",
+            "productCount": 26,
+            "index": 3,
+            "active": false,
+            "noFollow": true,
+            "seoURL": "/search.jsp?CN=Price:%2425%20to%20%2450&BL=y&search=jeans&S=1",
+            "currentDimensionId": "Price:%2425%20to%20%2450",
+            "currentAttributeId": null,
+            "ID": "Price:%2425%20to%20%2450"
+          }
+        ],
+        "clearSEOURL": null
+      }
+    ],
+    "products": [
+      {
+        "webID": "5008379",
+        "productTitle": "Men's Sonoma Goods For Life® Straight-Fit Flexwear Jean",
+        "image": {
+          "url": "https://media.kohlsimg.com/is/image/kohls/5008379_Rinse_Wash?wid=180&hei=180&op_sharpen=1",
+          "height": "180",
+          "width": "180"
+        },
+        "prices": [
+          {
+            "regularPrice": {
+              "minPrice": 34.99,
+              "maxPrice": null
+            },
+            "salePrice": {
+              "minPrice": 29.99,
+              "maxPrice": null
+            },
+            "displayBegDateTime": "2026/10/20 06:48:42 -0700",
+            "displayEndDateTime": "2026/10/22 01:42:27 -0700",
+            "purchaseBegDateTime": "2026/10/20 06:48:42 -0700",
+            "purchaseEndDateTime": "2026/10/22 01:42:27 -0700",
+            "isCurrentPrice": true,
+            "regularPriceType": "Regular",
+            "promotion": null,
+            "statusCode": "20",
+            "priceCode": "Normal",
+            "salePriceStatus": "sale",
+            "isSuppressed": false,
+            "salePriceType": null,
+            "isPriceInstore": false,
+            "suppressedPricingText": null,
+            "promotions": {
+              "tieredPrice": [],
+              "group": [],
+              "bogo": []
+            },
+            "priceLabel": "sale"
+          }
+        ],
+        "rating": {
+          "avgRating": 4.4,
+          "count": 2140
+        },
+        "swatchImages": [
+          {
+            "color": "Medium Wash",
+            "URL": "https://media.kohlsimg.com/is/image/kohls/5008379_Medium_Wash_sw?wid=20&hei=20&op_sharpen=1"
+          },
+          {
+            "color": "Black",
+            "URL": "https://media.kohlsimg.com/is/image/kohls/5008379_Black_sw?wid=20&hei=20&op_sharpen=1"
+          },
+          {
+            "color": "Rinse Wash",
+            "URL": "https://media.kohlsimg.com/is/image/kohls/5008379_Rinse_Wash_sw?wid=20&hei=20&op_sharpen=1"
+          }
+        ],
+        "valueAddedIcons": [
+          "best_seller"
+        ],
+        "valueAddedBadges": {
+          "realTime": [
+            "best_seller"
+          ],
+          "pricing": [],
+          "other": []
+        },
+        "seoURL": "/product/prd-5008379/mens-sonoma-goods-for-life-straight-fit-flexwear-jean.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/5008379_ALT",
+        "prodType": "product",
+        "displayColor": [
+          "Rinse Wash"
+        ],
+        "availableColr": [
+          "Medium Wash",
+          "Black",
+          "Rinse Wash"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": null,
+        "skuIds": [
+          "71533890"
+        ],
+        "topSkuId": "76736553",
+        "partnership": null,
+        "couponEligible": true,
+        "isVGC": false,
+        "ypEligibilityVal": "Eligible for Your Price"
+      },
+      {
+        "webID": "7091567",
+        "productTitle": "Women's Gloria Vanderbilt Amanda Original Bootcut Jeans",
+        "image": {
+          "url": "https://media.kohlsimg.com/is/image/kohls/7091567_Mead_W_Whiskers?wid=180&hei=180&op_sharpen=1",
+          "height": "180",
+          "width": "180"
+        },
+        "prices": [
+          {
+            "regularPrice": {
+              "minPrice": 52,
+              "maxPrice": null
+            },
+            "salePrice": {
+              "minPrice": 19.99,
+              "maxPrice": null
+            },
+            "displayBegDateTime": "2026/10/20 06:48:42 -0700",
+            "displayEndDateTime": "2026/10/22 01:45:03 -0700",
+            "purchaseBegDateTime": "2026/10/20 06:48:42 -0700",
+            "purchaseEndDateTime": "2026/10/22 01:45:03 -0700",
+            "isCurrentPrice": true,
+            "regularPriceType": "Regular",
+            "promotion": null,
+            "statusCode": "20",
+            "priceCode": "Normal",
+            "salePriceStatus": "sale",
+            "isSuppressed": false,
+            "salePriceType": null,
+            "isPriceInstore": false,
+            "suppressedPricingText": null,
+            "promotions": {
+              "tieredPrice": [],
+              "group": [],
+              "bogo": []
+            },
+            "priceLabel": "sale"
+          }
+        ],
+        "rating": {
+          "avgRating": 4.2,
+          "count": 518
+        },
+        "swatchImages": [
+          {
+            "color": "Mead W Whiskers",
+            "URL": "https://media.kohlsimg.com/is/image/kohls/7091567_Mead_W_Whiskers_sw?wid=20&hei=20&op_sharpen=1"
+          },
+          {
+            "color": "Cruise W Whiskers",
+            "URL": "https://media.kohlsimg.com/is/image/kohls/7091567_Cruise_W_Whiskers_sw?wid=20&hei=20&op_sharpen=1"
+          }
+        ],
+        "valueAddedIcons": [
+          "best_seller"
+        ],
+        "valueAddedBadges": {
+          "realTime": [
+            "best_seller"
+          ],
+          "pricing": [],
+          "other": []
+        },
+        "seoURL": "/product/prd-7091567/womens-gloria-vanderbilt-amanda-original-bootcut-jeans.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/7091567_ALT",
+        "prodType": "product",
+        "displayColor": [
+          "Mead W Whiskers"
+        ],
+        "availableColr": [
+          "Mead W Whiskers",
+          "Cruise W Whiskers"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": null,
+        "skuIds": [
+          "72442966"
+        ],
+        "topSkuId": "72442973",
+        "partnership": null,
+        "couponEligible": true,
+        "isVGC": false,
+        "ypEligibilityVal": "Eligible for Your Price"
+      }
+    ]
+  },
+  "count": 72,
+  "limit": 5,
+  "offset": 1
+}
